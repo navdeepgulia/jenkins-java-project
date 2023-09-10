@@ -9,3 +9,4 @@ hooks:
   AfterInstall:
     - location: start_tomcat.sh
       timeout: 30
+      hi
